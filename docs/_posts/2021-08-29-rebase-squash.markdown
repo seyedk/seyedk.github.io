@@ -60,7 +60,7 @@ Checkout, merge, and push into master
 
 `git checkout master`
 
-git merge branchName
+` git merge branchName`
 
 `git push origin master`
 
