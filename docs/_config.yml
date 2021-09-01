@@ -29,7 +29,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   But I have not issue with sharing with you! 
 baseurl: "seyedk.github.io" # the subpath of your site, e.g. /blog
 url: "seyedk.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: seyedk
+twitter_username: seyedketabchi
 github_username:  seyedk
 
 # Build settings
